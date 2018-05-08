@@ -1,3 +1,3 @@
 <?php
-  echo = 'Hola mundo 3'
+  echo = 'Hola mundo 2'
     ?>
